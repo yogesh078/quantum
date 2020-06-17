@@ -1,5 +1,5 @@
 # Chocolate distribution optimization problem
-Problem statement:
+Problem statement:<br>
 Optimize chocolate distribution among students by a teacher with minimum round trips between the chocolate boxes and seats.
 
 Chocolate Boxes
